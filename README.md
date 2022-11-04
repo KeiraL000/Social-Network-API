@@ -7,6 +7,7 @@
 * [Created By](#created-by)
 * [Github link](#github)
 * [Email](#email)
+* [Video walkthrough](#video-walkthrough)
 
 ## Description
 This is an  API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
@@ -21,3 +22,6 @@ Keira Lobatos
 [Github](github.com/KeiraL000)
 ## Email
 You can reach me at my email: Keira5466@yahoo.com
+## Video walkthrough
+N/A
+[Not working at the moment]
